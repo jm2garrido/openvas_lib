@@ -1,3 +1,8 @@
+Fork rationale (JMG)
+==============
+
+This library is very useful, but in the current state in GH, it doesn't work, it has some silly bugs that preclude to use it
+
 What's this lib?
 ================
 
