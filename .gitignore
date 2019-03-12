@@ -6,3 +6,8 @@ dist/
 .idea/
 TAGS
 tags
+/openvas_lib.egg-info/PKG-INFO
+/openvas_lib.egg-info/SOURCES.txt
+/openvas_lib.egg-info/dependency_links.txt
+/openvas_lib.egg-info/top_level.txt
+/openvas_lib/.common.py.swp
